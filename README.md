@@ -1,7 +1,7 @@
 # 💸 Haushaltsbuch GUI (Python)
 
 Dieses Projekt ist eine einfache grafische Anwendung zur Verwaltung von **Einnahmen und Ausgaben** – umgesetzt mit Python und **Tkinter**.  
-Ziel war es, ein erstes GUI-Projekt zu entwickeln und dabei strukturiertes Denken mit ansprechender Benutzeroberfläche zu verbinden. ♡
+Ziel war es, ein erstes GUI-Projekt zu entwickeln und dabei strukturiertes Denken mit ansprechender Benutzeroberfläche zu verbinden.
 
 ---
 
